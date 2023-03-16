@@ -1,8 +1,8 @@
 # 3D-Game-Assignment
 
-In this assignment, I got to change some textures, some lighting to make the mood darker and I changed the mouvement of the Dudes to go in a circular motion to make it harder to shoot.
+In this assignment, I got to change some textures, some lighting to make the mood darker and I changed the mouvement of the Dudes to go in a circular motion to make it harder to shoot them accurately.
 
-Originally, I intended this to feel like an alien invasion game where you were a space warrior and had to shoot the UFOs (which is why i chose the enemies to move in a circular motion like in the movies and chose the lighting to look darker). 
+Originally, I intended this to feel like an alien game where you were a space warrior and had to shoot the UFOs (which is why i chose the enemies to move in a circular motion like in the movies and chose the lighting to look darker). 
 
 However, I have been trying for multiple days and I have struggled with many errors when I attempt to add or replace 3D models.    
     
