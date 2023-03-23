@@ -12,5 +12,5 @@ With the humans now under our control, we can proceed with the next phase of our
 - Changed main player with a ufo model
 - Changed cannonballs to match the positioning of the ufo
 - Changed laser to look like it was shooting out of the ufo
-- Other general adjustments to code
+- Other general adjustments to code, (adding and managing asynchronous functions, etc..)
 
